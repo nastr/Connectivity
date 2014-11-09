@@ -1,0 +1,9 @@
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Connectivity\Connectivity\bin\Debug\Connectivity.exe.config
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Connectivity\Connectivity\bin\Debug\Connectivity.exe
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Connectivity\Connectivity\bin\Debug\Connectivity.pdb
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Connectivity\Connectivity\obj\Debug\Connectivity.Form1.resources
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Connectivity\Connectivity\obj\Debug\Connectivity.Properties.Resources.resources
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Connectivity\Connectivity\obj\Debug\Connectivity.csproj.GenerateResource.Cache
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Connectivity\Connectivity\obj\Debug\Connectivity.exe
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Connectivity\Connectivity\obj\Debug\Connectivity.pdb
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Connectivity\Connectivity\obj\Debug\Connectivity.csprojResolveAssemblyReference.cache
